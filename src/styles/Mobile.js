@@ -64,12 +64,12 @@ const Footer = styled.div`
     border-radius: 10px 10px 0 0;
     box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.25);
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     background-color: #FFFFFF;
     z-index: 1;
-
+    text-align: center;
     &.hidden {
         display: none;
     }
@@ -123,7 +123,8 @@ const Mobile=()=>{
                     <Outlet /> 
                 </Content>
                 <Footer className={classNames({ hidden: !showFooter })}>
-                    푸터
+                    푸터 <br/>
+                    Copyright © Hyunah. All rights reserved.
                 </Footer>
             </Container>
         </>
