@@ -1,4 +1,5 @@
-# React Mobile View 초기 세팅 오픈 소스 템플릿
+# React Mobile View 초기 세팅 오픈 소스 템플릿 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwiseah%2FReact-Mobile-View_Initial-Setting&count_bg=%23E6E6FA&title_bg=%23540090&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 이 프로젝트는 React를 사용하여 모바일과 PC 환경 모두 지원하는 웹 애플리케이션을 쉽게 개발할 수 있도록 설계된 오픈소스 템플릿입니다. <br/>
 반응형 디자인과 유연한 라우팅 시스템을 통해 다양한 디바이스에서 일관된 사용자 경험을 제공합니다.<br/>
