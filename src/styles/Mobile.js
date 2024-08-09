@@ -20,7 +20,7 @@ const Content = styled.div`
     overflow:auto;
     box-shadow:0px 0px 32px #0000002f;
     background-color: #ffffff;
-    //padding-bottom: 260px; //footer높이만큼 패딩 줘야함. 그래야 내용 다보임.
+    //padding-bottom: 90px; //footer높이만큼 패딩 줘야함. 그래야 내용 다보임.
 `;
 
 const Header = styled.div`

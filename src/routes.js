@@ -1,6 +1,6 @@
 import Sitemap from "./pages/Sitemap";
 import Main from "./pages/Main";
-import Example from "./pages/Example";
+import Example from "./pages/Example"; 
 
 const routes = [
     {

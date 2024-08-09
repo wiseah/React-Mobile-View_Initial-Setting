@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 import { IoIosArrowForward } from 'react-icons/io';
 import { IoIosArrowBack } from 'react-icons/io';
-import classNames from 'classnames';
+import classNames from 'classnames'; 
 
 const Button = styled.button`
     display: flex;

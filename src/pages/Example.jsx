@@ -15,7 +15,7 @@ function Example() {
   return (
     <Container>
       <Content>
-        pages폴더에 페이지를 추가하고 routes에 페이지 경로를 적어주세요!
+        pages폴더에 페이지를 추가하고 routes에 페이지 경로를 적어주세요! 
       </Content>
     </Container>
   )

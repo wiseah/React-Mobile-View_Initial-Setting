@@ -7,7 +7,7 @@ const Container = styled.div`
     padding: 0 31px;
     display: grid;
     grid-template-columns: 1fr;
-    gap: 16px 24px;
+    gap: 16px 24px; 
 `;
 
 const Sitemap = ({}) => {

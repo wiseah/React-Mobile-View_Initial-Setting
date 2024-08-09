@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Mobile/>}>
-          {elements}
+          {elements} 
         </Route>
       </Routes>
     </Router>
