@@ -124,7 +124,6 @@ const Mobile=()=>{
                 </Content>
                 <Footer className={classNames({ hidden: !showFooter })}>
                     푸터 <br/>
-                    Copyright © Hyunah. All rights reserved.
                 </Footer>
             </Container>
         </>
