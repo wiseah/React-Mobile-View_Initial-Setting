@@ -4,7 +4,7 @@
 이 프로젝트는 React를 사용하여 모바일과 PC 환경 모두 지원하는 웹 애플리케이션을 쉽게 개발할 수 있도록 설계된 오픈소스 템플릿입니다. <br/>
 반응형 디자인과 유연한 라우팅 시스템을 통해 다양한 디바이스에서 일관된 사용자 경험을 제공합니다.<br/>
 
-<img width="1470" alt="examples" src="https://github.com/user-attachments/assets/40f97a6b-2461-4210-bf33-174e8d016dd1">
+<img width="1470" alt="examples" src="https://github.com/user-attachments/assets/b24364ea-6d3f-468a-8281-95b1256c90b7">
 <details><summary>📸 응용 예시</summary><img width="1470" alt="image" src="https://github.com/user-attachments/assets/7ff6b655-c925-4a2b-905e-edefc74154d4"></details>
 
 ## 주요 기능
